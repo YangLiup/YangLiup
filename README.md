@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YangLiup
 - 👀 I’m interested in precise measurement of the magnetic field
 - 🌱 I’m currently learning physics
-- 💞️ I’m looking to collaborate on design of the hyghly sensitive atomic magnetometers
+- 💞️ I’m looking to collaborate on design of the highly sensitive atomic magnetometers
 - 📫 How to reach me 1465858518@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
